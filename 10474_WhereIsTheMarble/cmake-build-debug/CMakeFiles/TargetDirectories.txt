@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/10474_WhereIsTheMarble/cmake-build-debug/CMakeFiles/10474_WhereIsTheMarble.dir
+C:/Users/HP/CLionProjects/10474_WhereIsTheMarble/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/10474_WhereIsTheMarble/cmake-build-debug/CMakeFiles/rebuild_cache.dir
